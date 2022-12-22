@@ -5,7 +5,7 @@ Funções usadas para ler e codificar uma imagem
 
 import numpy as np
 import scipy.fftpack as fft
-import sklearn.metrics as skl_m
+import sklearn.metrics as skl_m     
 import matplotlib.image as mpimg
 
 """
